@@ -16,10 +16,8 @@
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/kevin-guzman-huamani-55815b235/" target="blank"><img src="./assets/social-media/linkedin.svg" width="30" /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:kebbu159@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" /></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://kevinguzman.netlify.app' target='_blank'>  🌎 </a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://kevinguzman.netlify.app' target='_blank'><img src="./assets/others/web.svg" width="30" /></a>
 </div>
-
-
 
 
 <p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Kevin | 👨‍💻 Data Scientist Engineer | Peru 🇵🇪 </p>
