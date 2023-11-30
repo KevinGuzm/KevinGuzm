@@ -6,7 +6,7 @@
 
 <div>
  
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8CE4F7&width=435&lines=I'm+a+Data+Scientist%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8CE4F7&width=435&lines=I'm+a+Data+Scientist%F0%9F%9A%80)](https://git.io/typing-svg)
 
  
 
