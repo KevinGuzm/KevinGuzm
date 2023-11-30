@@ -16,7 +16,7 @@
 <div align='center' style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start; column-gap: 20px;">
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href="https://www.linkedin.com/in/kevin-guzman-huamani-55815b235/" target="blank"><img src="./assets/social-media/linkedin.svg" width="30" /></a>
 <a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='mailto:kebbu159@gmail.com' target='_blank'><img src="./assets/social-media/gmail.svg" width="30" /></a>
-<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://kevinguzman.netlify.app' target='_blank'>🌍</a>
+<a margin='0 0.8rem' style="margin: 0 0.8rem; outline: none;" href='https://kevinguzman.netlify.app' target='_blank'>  🌎 </a>
 </div>
 
 
@@ -29,11 +29,9 @@
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
-<img align='right' src="https://github.com/KevinGuzm/KevinGuzm/blob/main/chip-591_512.gif" height="" width="100" alt="coding cat">
+<img align='right' src="https://github.com/KevinGuzm/KevinGuzm/blob/main/chip-591_512.gif" height="" width="200" alt="coding cat">
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I study computer science and systems engineering at the Rafael Landívar University.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 📈 &nbsp; I am a data scientist. My passion for continuous learning and acquiring new technological skills has led me to work on projects, where I have been able to apply and expand my knowledge. I am excited to collaborate and contribute innovative ideas in the field of data science. My constant focus on learning and personal improvement allows me to stay up to date with the latest trends and technologies in the field of data science. My goal is to use my skills and knowledge to make significant contributions in the field of data science.
 
 <hr>
 <br/>
