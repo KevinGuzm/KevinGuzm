@@ -25,7 +25,7 @@
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
-<img align='right' src="https://github.com/KevinGuzm/KevinGuzm/blob/main/chip-591_512.gif" height="" width="300" alt="coding cat">
+<img align='right' src="https://github.com/KevinGuzm/KevinGuzm/blob/main/chip-591_512.gif" height="" width="100" alt="coding cat">
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I study computer science and systems engineering at the Rafael Landívar University.
