@@ -29,3 +29,10 @@ Soy un apasionado científico de datos. Me encanta explorar nuevas tecnologías 
 
 ## 📈 Estadísticas de GitHub:
 !Estadísticas de GitHub de Kevin
+
+## 📊 Lenguajes de programación más utilizados:
+!Top Langs
+
+## 👀 Contador de visitantes:
+!Visitors
+
