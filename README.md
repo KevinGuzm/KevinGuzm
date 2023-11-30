@@ -29,9 +29,9 @@
 
 <h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> About Me</h2>
 
-<img align='right' src="https://github.com/KevinGuzm/KevinGuzm/blob/main/chip-591_512.gif" height="" width="200" alt="coding cat">
+<img align='right' src="https://github.com/KevinGuzm/KevinGuzm/blob/main/chip-591_512.gif" height="" width="100" alt="coding cat">
 
-- 📈 &nbsp; I am a data scientist. My passion for continuous learning and acquiring new technological skills has led me to work on projects, where I have been able to apply and expand my knowledge. I am excited to collaborate and contribute innovative ideas in the field of data science. My constant focus on learning and personal improvement allows me to stay up to date with the latest trends and technologies in the field of data science. My goal is to use my skills and knowledge to make significant contributions in the field of data science.
+- 📈 &nbsp; My passion for continuous learning and acquiring new technological skills has led me to work on projects, where I have been able to apply and expand my knowledge. My constant focus on learning and personal improvement allows me to stay up to date with the latest trends and technologies in the field of data science. My goal is to use my skills and knowledge to make significant contributions in the field of data science.
 
 <hr>
 <br/>
