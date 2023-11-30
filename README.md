@@ -1,5 +1,7 @@
 # 👋 ¡Hola, soy Kevin Guzman! <img align='right' src="https://github.com/kevinguzman/kevinguzman/blob/master/github.png" height="" width="300">
 
+!Typing SVG
+
 Soy un apasionado científico de datos. Me encanta explorar nuevas tecnologías y disfruto desarrollando soluciones de software y hacks rápidos.
 
 ## 🌐 Redes sociales:
@@ -35,4 +37,3 @@ Soy un apasionado científico de datos. Me encanta explorar nuevas tecnologías 
 
 ## 👀 Contador de visitantes:
 !Visitors
-
